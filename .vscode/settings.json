@@ -1,0 +1,15 @@
+{
+    "workbench.iconTheme": "hotline-technicolor",
+    "terminal.integrated.tabs.defaultColor": "terminal.ansiMagenta",
+    "terminal.integrated.automationProfile.linux": null,
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#c79bff",
+        "terminalCursor.foreground": "#c79bff"
+    },
+    "files.autoSave": "afterDelay",
+    "editor.fontSize": 16,
+    "editor.fontFamily": "ComicShannsMono Nerd Font Mono",
+    "editor.wordWrap": "on",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true
+}
